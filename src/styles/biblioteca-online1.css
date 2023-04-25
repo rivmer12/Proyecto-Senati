@@ -17,6 +17,8 @@ body{
     min-height: 45px;
     font-weight: 600;
     font-size: 15px;
+    position: fixed;
+    top: 0;
 }
 #sharepoint:hover{
     color: rgb(38, 72, 223);
