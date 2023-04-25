@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.posEnca{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.encabezado{
+    background-color: black;
+    justify-content:space-between;
+    width: 100%;
+    height: 50px;
+    max-height: 50px;
+    min-height: 45px;
+    font-weight: 600;
+    font-size: 15px;
+}
+#sharepoint:hover{
+    color: rgb(38, 72, 223);
+}
+.colorAnc:hover{
+    background-color: rgb(38, 72, 223);
+}
+.posiAnc a{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    text-decoration: none;
+    color:#fff;
+}
+.posImg{
+    vertical-align: middle;
+    width: 20px;
+    min-width: 15px;
+    height: 20px;
+    min-height: 15px;
+    margin: 0 15px;;
+}
+.enca1{
+    width: 200px;
+    min-width: 180px;
+    height: 100%;
+    max-height: 100%;
+}
+.enca2{
+    height: 100%;
+}
