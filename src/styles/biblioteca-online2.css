@@ -17,6 +17,7 @@
     font-size: 11px;
     margin: 1px;
     letter-spacing: 0.45px;
+    text-align: center;
 }
 .subfoo2{
     display: flex;

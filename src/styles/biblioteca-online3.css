@@ -8,16 +8,19 @@
     margin-top: 50px;
 }
 .submain2 img{
-    width: 150px;
+    vertical-align: middle;
+    width: 8vw;
     min-width: 80px;
-    height: 80px;
+    height: 7vh;
     min-height: 30px;
-    margin: 0 15px;
 }
 .submain2 a{
-    margin: 0 15px;
+    text-align: center;
+    width: 7vw;
+    min-width: 80px;
     color: white;
     text-decoration: none;
+    margin-left: 10px;
 }
 .submain2 a:hover{
     color:rgb(38, 72, 223);
